@@ -1,2 +1,2 @@
-# leont_emplate_one
+# template_one
 this is my first project
